@@ -1,13 +1,14 @@
 ---
 layout: page
-title: projects
+title: Research
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: 
 nav: true
 nav_order: 3
-display_categories: [work, fun]
 horizontal: false
 ---
+
+The goal of my current research is the discovery and characterization of Milky Way binaries hosting neutron stars and stellar-mass black holes. I am especially interested in hunting for dormant (i.e. non-accreting) compact objects, which are particularly elusive, despite being much more common than their active (i.e. accreting) counterparts. My work leverages the treasure trove of data produced by the _Gaia_ mission. You can find more details on my past and ongoing projects below.
 
 <!-- pages/projects.md -->
 <div class="projects">
