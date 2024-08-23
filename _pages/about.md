@@ -6,10 +6,8 @@ subtitle: Ph.D. Student in Astrophysics at Caltech
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Website_Photo.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Pasadena, CA</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
