@@ -9,7 +9,7 @@ nav_order: 4
 
 ##### Validation of _Gaia_ Astrometric Binary Solutions
 
-Catalogs of hierarchical triples hosting astrometric binaries with astrometric or acceleration solutions in _Gaia_ DR3 can be found [here](https://github.com/pranav-nagarajan/Astrometric-Binaries-Validation). The associated paper is [Validation of Gaia DR3 orbital and acceleration solutions with hierarchical triples](https://ui.adsabs.harvard.edu/abs/2024arXiv240716760N/abstract).
+Catalogs of hierarchical triples hosting astrometric binaries with astrometric or acceleration solutions in _Gaia_ DR3 can be found either [here](https://doi.org/10.5281/zenodo.12791391) or [here](https://github.com/pranav-nagarajan/Astrometric-Binaries-Validation). The associated paper is [Validation of Gaia DR3 orbital and acceleration solutions with hierarchical triples](https://ui.adsabs.harvard.edu/abs/2024PASP..136i4203N/abstract).
 
 ##### ESPRESSO observations of Gaia BH1
 
