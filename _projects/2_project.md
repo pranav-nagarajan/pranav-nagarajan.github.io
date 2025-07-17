@@ -1,12 +1,14 @@
 ---
 layout: page
-title: The SyXB IGR J16194-2810 and Gaia NSs
+title: Revisiting BH Natal Kicks using _Gaia_ DR3 Kinematics
 description:
-img: assets/img/IGR_J16194_2810.jpg
+img: assets/img/Kick_Toomre_Plots.jpg
 importance: 1
 related_publications: false
 ---
 
-The wide main sequence star + neutron star (NS) binaries recently discovered using _Gaia_ astrometry will eventually evolve into symbiotic X-ray binaries (SyXB), rare systems in which the compact object companion accretes from the wind of an evolved red giant. To open a window on the future evolution of these Gaia NSs, I used optical follow-up observations of IGR J16194-2810, one of the few known SyXBs, to derive the orbital and stellar parameters of the red giant. From joint modeling of the ellipsoidal light curve, radial velocity curve, and red giant SED, I derived an orbital period of 192.73 days and dynamically confirmed the presence of a NS companion. Modules for Stellar Experiments in Stellar Astrophysics (MESA) models predict that the red giant will overflow its Roche lobe in several million years, and that the system will eventually end up as one of the longest-period white dwarf + millisecond pulsar binaries known. The system likely survived a common envelope phase with a large donor-to-accretor mass ratio before emerging in a wide orbit. Simulations show that the NS likely formed with a weak kick, as stronger kicks would have likely disrupted the binary.
+When massive stars die, they can deliver an impulse to their compact object remnants known as a natal kick. However, most black hole (BH) binaries are old and have likely been kinematically heated by processes other than kicks over their lifetimes. Motivated by this fact, I used stellar kinematic data from _Gaia_ DR3 to revisit constraints on BH natal kicks from accreting and detached BH binaries. I compared the space velocities and Galactic orbits of a sample of 12 BHs in the Galactic disk with well-constrained distances to their local stellar populations. I found that 6 BHs had at least weak evidence for a kick, and that 4 BHs were kinematically hotter than 90% of their local stellar populations, suggesting that they were born with kicks of > 100 km/s. On the other hand, 6 BHs had kinematics typical of their local populations, disfavoring kicks of > 50 km/s. I pointed out that, in particular, V404 Cyg and VFTS 243 have strong independent evidence for being born with very weak kicks. Although uncertainties are still too large to assess whether the BH kick distribution is bimodal, I concluded that the data are consistent with a scenario where some BHs form by direct collapse and receive weak kicks, and others form in supernovae and receive strong kicks.
 
-Read more about this research project in the associated publication [here](https://ui.adsabs.harvard.edu/abs/2024PASP..136g4202N/abstract). 
+Read more about this research project in the associated publication [here](https://ui.adsabs.harvard.edu/abs/2025PASP..137c4203N/abstract). 
+
+Read an Astrobites article about this work [here](https://astrobites.org/2025/02/20/black-hole-natal-kicks/).

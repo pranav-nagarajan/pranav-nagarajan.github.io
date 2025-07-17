@@ -1,12 +1,12 @@
 ---
 layout: page
-title: RR Lyrae-based Distances to 39 Local Group Dwarf Galaxies
+title: Testing the Inner Binary Scenario in Gaia BH1
 description:
-img: assets/img/distance_moduli.jpg
+img: assets/img/Gaia_BH1.jpg
 importance: 1
 related_publications: false
 ---
 
-In this work, I used periods and magnitude for RR Lyrae stars from the literature to derive new, uniform distance measurements for 39 dwarf galaxies in and around the Local Group. I used Bayesian hierarchical modeling to simultaneously derive the Period-Wesenheit Magnitude-Metallicity (PWZ) relation for each dwarf galaxy, and calibrated the resulting distance measurements using Milky Way RR Lyrae with precise _Gaia_ eDR3 parallaxes. On average, these distance moduli were 2-3 times more precise and 0.05 magnitudes closer than literature values. I developed public code that can be used to incorporate additional data into the model and apply the distance scale to new dwarf galaxies.
+In this study, I used high-precision radial velocity (RV) measurements of Gaia BH1, the closest known black hole (BH) system, to update its orbital constraints and investigate whether the massive dark companion is a BH + BH binary rather than a single BH. These observations, which were concentrated near periastron and covered 2.33 orbits of the G star, showed no significant evidence for deviations from a Keplerian orbit. Using REBOUND simulations of hierarchical triples with a range of orbital parameters, mass ratios, and orientations, I showed that inner binaries with orbital periods longer than about 1.5 days would have led to detectable RV perturbations. On the other hand, inner binaries with shorter orbital periods would have merged quickly, implying fine-tuning. 
 
-Read more about this research project in the associated publication [here](https://ui.adsabs.harvard.edu/abs/2022ApJ...932...19N/abstract). 
+Read more about this research project in the associated publication [here](https://ui.adsabs.harvard.edu/abs/2024PASP..136a4202N/abstract). 

@@ -7,6 +7,10 @@ nav: true
 nav_order: 4
 ---
 
+##### Low-Metallicity Binaries in _Gaia_ DR3
+
+FEROS and APF spectra for low-metallicity sources with elevated RUWE in _Gaia_ DR3 can be found [here](https://caltech.app.box.com/folder/331420437139?s=4j3fh5r3mgu6kj8um2k7lavpt5f8do4z). A tutorial for reading in these spectra, along with a MIKE follow-up spectrum of a promising dormant BH candidate, can be found [here](https://github.com/pranav-nagarajan/Low-Metallicity-Binaries).
+
 ##### Validation of _Gaia_ Astrometric Binary Solutions
 
 Catalogs of hierarchical triples hosting astrometric binaries with astrometric or acceleration solutions in _Gaia_ DR3 can be found either [here](https://doi.org/10.5281/zenodo.12791391) or [here](https://github.com/pranav-nagarajan/Astrometric-Binaries-Validation). The associated paper is [Validation of Gaia DR3 orbital and acceleration solutions with hierarchical triples](https://ui.adsabs.harvard.edu/abs/2024PASP..136i4203N/abstract).

@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Testing the Inner Binary Scenario in Gaia BH1
+title: Validation of <i>Gaia</i> DR3 astrometric binary solutions
 description:
-img: assets/img/Gaia_BH1.jpg
+img: assets/img/Good_Trend_Figure.jpg
 importance: 1
 related_publications: false
 ---
 
-In this study, I used high-precision radial velocity (RV) measurements of Gaia BH1, the closest known black hole (BH) system, to update its orbital constraints and investigate whether the massive dark companion is a BH + BH binary rather than a single BH. These observations, which were concentrated near periastron and covered 2.33 orbits of the G star, showed no significant evidence for deviations from a Keplerian orbit. Using REBOUND simulations of hierarchical triples with a range of orbital parameters, mass ratios, and orientations, I showed that inner binaries with orbital periods longer than about 1.5 days would have led to detectable RV perturbations. On the other hand, inner binaries with shorter orbital periods would have merged quickly, implying fine-tuning. 
+The _Gaia_ DR3 catalog includes 14,791 gravitationally bound wide pairs where one component is an unresolved binary with an astrometric orbital or acceleration solution. Leveraging the fact that the inner binary and outer tertiary have nearly identical parallaxes, I used these hierarchical triples to calibrate the parallax uncertainties for the astrometric solutions. I found that the uncertainties for orbital solutions are underestimated by factors of about 1.3 for faint (G > 14) stars and 1.7 for brighter stars. In addition, the uncertainties for acceleration solutions are underestimated by larger factors of 2-3. Nevertheless, both of these types of solutions represent a significant improvement over the single-star solutions for the same systems.
 
-Read more about this research project in the associated publication [here](https://ui.adsabs.harvard.edu/abs/2024PASP..136a4202N/abstract). 
+Read more about this research project in the associated publication [here](https://ui.adsabs.harvard.edu/abs/2024PASP..136i4203N/abstract). 
