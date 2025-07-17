@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Revisiting BH Natal Kicks using _Gaia_ DR3 Kinematics
+title: Revisiting BH Natal Kicks using <i>Gaia</i> DR3 Kinematics
 description:
 img: assets/img/Kick_Toomre_Plots.jpg
 importance: 1
