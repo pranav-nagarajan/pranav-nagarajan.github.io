@@ -1,12 +1,12 @@
 ---
 layout: page
-title: The SyXB IGR J16194-2810 and Gaia NSs
+title: Validation of <i>Gaia</i> DR3 astrometric binary solutions
 description:
-img: assets/img/IGR_J16194_2810.jpg
+img: assets/img/Good_Trend_Figure.jpg
 importance: 1
 related_publications: false
 ---
 
-The wide main sequence star + neutron star (NS) binaries recently discovered using _Gaia_ astrometry will eventually evolve into symbiotic X-ray binaries (SyXB), rare systems in which the compact object companion accretes from the wind of an evolved red giant. To open a window on the future evolution of these Gaia NSs, I used optical follow-up observations of IGR J16194-2810, one of the few known SyXBs, to derive the orbital and stellar parameters of the red giant. From joint modeling of the ellipsoidal light curve, radial velocity curve, and red giant SED, I derived an orbital period of 192.73 days and dynamically confirmed the presence of a NS companion. Modules for Stellar Experiments in Stellar Astrophysics (MESA) models predict that the red giant will overflow its Roche lobe in several million years, and that the system will eventually end up as one of the longest-period white dwarf + millisecond pulsar binaries known. The system likely survived a common envelope phase with a large donor-to-accretor mass ratio before emerging in a wide orbit. Simulations show that the NS likely formed with a weak kick, as stronger kicks would have likely disrupted the binary.
+The _Gaia_ DR3 catalog includes 14,791 gravitationally bound wide pairs where one component is an unresolved binary with an astrometric orbital or acceleration solution. Leveraging the fact that the inner binary and outer tertiary have nearly identical parallaxes, I used these hierarchical triples to calibrate the parallax uncertainties for the astrometric solutions. I found that the uncertainties for orbital solutions are underestimated by factors of about 1.3 for faint (G > 14) stars and 1.7 for brighter stars. In addition, the uncertainties for acceleration solutions are underestimated by larger factors of 2-3. Nevertheless, both of these types of solutions represent a significant improvement over the single-star solutions for the same systems.
 
-Read more about this research project in the associated publication [here](https://ui.adsabs.harvard.edu/abs/2024PASP..136g4202N/abstract). 
+Read more about this research project in the associated publication [here](https://ui.adsabs.harvard.edu/abs/2024PASP..136i4203N/abstract). 

@@ -1,14 +1,12 @@
 ---
 layout: page
-title: Revisiting BH Natal Kicks using <i>Gaia</i> DR3 Kinematics
+title: Realistic Predictions for Gaia Black Hole Discoveries
 description:
-img: assets/img/Kick_Toomre_Plots.jpg
+img: assets/img/Combined_Bar_Plot.jpg
 importance: 1
 related_publications: false
 ---
 
-When massive stars die, they can deliver an impulse to their compact object remnants known as a natal kick. However, most black hole (BH) binaries are old and have likely been kinematically heated by processes other than kicks over their lifetimes. Motivated by this fact, I used stellar kinematic data from _Gaia_ DR3 to revisit constraints on BH natal kicks from accreting and detached BH binaries. I compared the space velocities and Galactic orbits of a sample of 12 BHs in the Galactic disk with well-constrained distances to their local stellar populations. I found that 6 BHs had at least weak evidence for a kick, and that 4 BHs were kinematically hotter than 90% of their local stellar populations, suggesting that they were born with kicks of > 100 km/s. On the other hand, 6 BHs had kinematics typical of their local populations, disfavoring kicks of > 50 km/s. I pointed out that, in particular, V404 Cyg and VFTS 243 have strong independent evidence for being born with very weak kicks. Although uncertainties are still too large to assess whether the BH kick distribution is bimodal, I concluded that the data are consistent with a scenario where some BHs form by direct collapse and receive weak kicks, and others form in supernovae and receive strong kicks.
+Gaia astrometry has enabled the discovery of three dormant black holes (BHs) in wide binaries, challenging traditional binary evolution models. Numerous alternative formation models have been proposed, with several using simplified detectability metrics to forecast future detections. In this work, I applied a realistic forward-model of _Gaia_’s astrometric orbit catalog to synthetic BH binary populations from (a) isolated binary evolution (IBE, Chawla et al. 2022) and (b) dynamical formation in star clusters (Di Carlo et al. 2024). I found that the IBE model predicts that no BH binaries should have been detected in DR3, while the dynamical model overpredicts the observed number instead. I investigated the differences in assumptions between the population synthesis models that could have resulted in this discrepancy. Adopting the dynamical model and re-scaling to DR3, I predicted that approximately 30 BH binaries will be detected in _Gaia_ DR4, representing about 0.1% of Milky Way BHs with luminous companions in au-scale orbits.
 
-Read more about this research project in the associated publication [here](https://ui.adsabs.harvard.edu/abs/2025PASP..137c4203N/abstract). 
-
-Read an Astrobites article about this work [here](https://astrobites.org/2025/02/20/black-hole-natal-kicks/).
+Read more about this research project in the associated publication [here](https://ui.adsabs.harvard.edu/abs/2025PASP..137d4202N/abstract). 
