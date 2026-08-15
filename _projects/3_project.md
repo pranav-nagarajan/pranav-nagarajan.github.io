@@ -1,14 +1,12 @@
 ---
 layout: page
-title: Revisiting BH Natal Kicks using <i>Gaia</i> DR3 Kinematics
+title: "Testing Models for Fully and Partially Stripped Low-mass Stars with Gaia"
 description:
-img: assets/img/Kick_Toomre_Plots.jpg
-importance: 1
+img: assets/img/Observed_Bar_Plot.jpg
+importance: 3
 related_publications: false
 ---
 
-When massive stars die, they can deliver an impulse to their compact object remnants known as a natal kick. However, most black hole (BH) binaries are old and have likely been kinematically heated by processes other than kicks over their lifetimes. Motivated by this fact, I used stellar kinematic data from _Gaia_ DR3 to revisit constraints on BH natal kicks from accreting and detached BH binaries. I compared the space velocities and Galactic orbits of a sample of 12 BHs in the Galactic disk with well-constrained distances to their local stellar populations. I found that 6 BHs had at least weak evidence for a kick, and that 4 BHs were kinematically hotter than 90% of their local stellar populations, suggesting that they were born with kicks of > 100 km/s. On the other hand, 6 BHs had kinematics typical of their local populations, disfavoring kicks of > 50 km/s. I pointed out that, in particular, V404 Cyg and VFTS 243 have strong independent evidence for being born with very weak kicks. Although uncertainties are still too large to assess whether the BH kick distribution is bimodal, I concluded that the data are consistent with a scenario where some BHs form by direct collapse and receive weak kicks, and others form in supernovae and receive strong kicks.
+When low-mass red giants lose their envelopes to a companion just before the helium flash, the resulting mass transfer can result in a continuum of products ranging from fully stripped hot subdwarfs to partially stripped horizontal branch stars and undermassive red clump stars. Population synthesis models also suggest that young, metal-rich RR Lyrae can form when partial stripping leaves a helium-burning star in the instability strip. To test these predictions, I generated epoch astrometry for a simulated Galactic population of low-mass stripped star binaries using _Gaia_'s scanning law and fitted it with the cascade of astrometric models applied in _Gaia_ DR3. I compared the simulated population to DR3 observations of hot subdwarfs, RR Lyrae, and red giants with high astrometric mass functions. I found that the adopted population synthesis model significantly overpredicted the number of hot subdwarfs with astrometric binary solutions, partly because the predicted flux ratios were more unequal than observed. It also predicted more than 100 RR Lyrae with DR3 astrometric orbital solutions, while none are observed. I concluded that RR Lyrae in au-scale binaries may be substantially rarer than predicted. In contrast, the model plausibly explained the population of red clump stars with high astrometric mass functions, which I interpreted to be potential black hole impostors. I predicted that about 10 times as many stripped-star binaries will be detectable in DR4, whose sensitivity to longer periods will more strongly test wide-orbit systems.
 
-Read more about this research project in the associated publication [here](https://ui.adsabs.harvard.edu/abs/2025PASP..137c4203N/abstract). 
-
-Read an Astrobites article about this work [here](https://astrobites.org/2025/02/20/black-hole-natal-kicks/).
+Read more about this research project in the associated publication [here](https://arxiv.org/abs/2602.21289).

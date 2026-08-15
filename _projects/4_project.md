@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Validation of <i>Gaia</i> DR3 astrometric binary solutions
+title: A Spectroscopic Search for Dormant Black Holes in Low-Metallicity Binaries
 description:
-img: assets/img/Good_Trend_Figure.jpg
-importance: 1
+img: assets/img/Compare_Gaia_RV.jpg
+importance: 4
 related_publications: false
 ---
 
-The _Gaia_ DR3 catalog includes 14,791 gravitationally bound wide pairs where one component is an unresolved binary with an astrometric orbital or acceleration solution. Leveraging the fact that the inner binary and outer tertiary have nearly identical parallaxes, I used these hierarchical triples to calibrate the parallax uncertainties for the astrometric solutions. I found that the uncertainties for orbital solutions are underestimated by factors of about 1.3 for faint (G > 14) stars and 1.7 for brighter stars. In addition, the uncertainties for acceleration solutions are underestimated by larger factors of 2-3. Nevertheless, both of these types of solutions represent a significant improvement over the single-star solutions for the same systems.
+The discovery of the massive black hole (BH) system Gaia BH3 in pre-release Gaia DR4 data suggests that wide BH binaries with luminous companions may be significantly overrepresented at low metallicities. Motivated by this finding, I performed a spectroscopic survey of low-metallicity stars exhibiting elevated RUWE values in Gaia DR3 using the FEROS and APF spectrographs. I identified promising BH binary candidates as objects with instantaneously measured radial velocities (RVs) that were very different from their mean RVs reported in Gaia DR3. Thus far, the campaign has observed over 500 targets, including a nearly complete sample of stars with [Fe/H] < -1.5, RUWE > 2, and G < 15. The search yielded one promising target exhibiting slow acceleration and an RV more than 98 km/s different from its DR3 mean RV, as well as dozens of other BH candidates with smaller RV discrepancies. I quantified the sensitivity of the search using simulations, demonstrating that it recovers at least half of the BH companions within the campaign's selection criteria.
 
-Read more about this research project in the associated publication [here](https://ui.adsabs.harvard.edu/abs/2024PASP..136i4203N/abstract). 
+Read more about this research project in the associated publication [here](https://ui.adsabs.harvard.edu/abs/2025PASP..137i4202N/abstract).
