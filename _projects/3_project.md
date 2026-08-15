@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Testing Models for Fully and Partially Stripped Low-mass Stars with Gaia"
+title: "Testing Models for Stripped Low-mass Stars with <i>Gaia</i>"
 description:
 img: assets/img/Observed_Bar_Plot.jpg
 importance: 3
