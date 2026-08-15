@@ -48,5 +48,21 @@ jobs:
         uses: lycheeverse/lychee-action@v2.0.2
         with:
           fail: true
-          # removed md files that include liquid tags
-          args: --user-agent 'curl/7.54' --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --exclude-path _posts/2023-04-24-videos.md --verbose --no-progress './**/*.md' './**/*.html'
+          # Exclude files with Liquid tags and live pages that reject GitHub-hosted runners.
+          args: >-
+            --user-agent 'Mozilla/5.0 (compatible; pranav-nagarajan.github.io link checker; +https://github.com/pranav-nagarajan/pranav-nagarajan.github.io)'
+            --max-concurrency 32
+            --max-retries 5
+            --retry-wait-time 2
+            --exclude 'https://stackoverflow\.com/questions/34987908/embed-a-code-block-in-a-list-item-with-proper-indentation-in-kramdown/38090598#38090598'
+            --exclude 'https://astrobites\.org/2025/02/20/black-hole-natal-kicks/'
+            --exclude 'http://www\.intmath\.com/cg5/katex-mathjax-comparison\.php'
+            --exclude-path README.md
+            --exclude-path _pages/404.md
+            --exclude-path _pages/blog.md
+            --exclude-path _posts/2018-12-22-distill.md
+            --exclude-path _posts/2023-04-24-videos.md
+            --verbose
+            --no-progress
+            './**/*.md'
+            './**/*.html'
