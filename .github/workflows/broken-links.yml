@@ -48,12 +48,14 @@ jobs:
         uses: lycheeverse/lychee-action@v2.0.2
         with:
           fail: true
-          # Exclude files with Liquid tags and live pages that reject GitHub-hosted runners.
+          # Exclude files with Liquid tags and pages that block or rate-limit CI requests.
+          # arXiv advanced search returns 429 to CI; individual paper links remain checked.
           args: >-
             --user-agent 'Mozilla/5.0 (compatible; pranav-nagarajan.github.io link checker; +https://github.com/pranav-nagarajan/pranav-nagarajan.github.io)'
             --max-concurrency 32
             --max-retries 5
             --retry-wait-time 2
+            --exclude '^https://arxiv\.org/search/advanced\?'
             --exclude 'https://stackoverflow\.com/questions/34987908/embed-a-code-block-in-a-list-item-with-proper-indentation-in-kramdown/38090598#38090598'
             --exclude 'https://astrobites\.org/2025/02/20/black-hole-natal-kicks/'
             --exclude 'http://www\.intmath\.com/cg5/katex-mathjax-comparison\.php'
