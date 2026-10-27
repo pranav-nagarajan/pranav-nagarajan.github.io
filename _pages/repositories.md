@@ -7,6 +7,10 @@ nav: true
 nav_order: 4
 ---
 
+##### Next Generation Palomar Spectrograph Flexure Corrections
+
+A Jupyter Notebook tutorial and command-line interface for measuring stellar radial velocities and instrumental flexure with the Next Generation Palomar Spectrograph (NGPS) can be found [here](https://github.com/pranav-nagarajan/NGPS-RV-Calibration). This pipeline, which utilizes telluric features, was described in the paper [Calibration of the Next Generation Palomar Spectrograph as a Stellar Speedometer](https://iopscience.iop.org/article/10.1088/1538-3873/aeae72).
+
 ##### Low-Metallicity Binaries in _Gaia_ DR3
 
 FEROS and APF spectra for low-metallicity sources with elevated RUWE in _Gaia_ DR3 can be found [here](https://zenodo.org/records/16888415). A tutorial for reading in these spectra, along with a MIKE follow-up spectrum of a promising dormant BH candidate, can be found [here](https://github.com/pranav-nagarajan/Low-Metallicity-Binaries).
